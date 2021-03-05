@@ -8,4 +8,4 @@
 
 Here's a **Preview** of how the app will looks like when launched
 
-![Roll the Dice Preview](Roll the Dice Preview.png)
+![Roll the Dice Preview](images/rollthedice.png)

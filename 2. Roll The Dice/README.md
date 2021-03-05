@@ -1,10 +1,11 @@
 
 
-# Dicee
+# Roll The Dice App
 
+1.I have created a 'Rolling Dice' iOS Application which rolls down and shows a 'Random Die Number' upon clicking the "Roll" button. 
+2.I did incorporate 'Random class' from Swift language which lets the die to pick a random number from the given array upon clicking the button.
+3.You can either tap or shake the iPhone to let the die roll down
 
-## What I will create
+Here's a **Preview** of how the app will looks like when launched
 
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
-
-
+![Roll the Dice Preview](Roll the Dice Preview.png)
